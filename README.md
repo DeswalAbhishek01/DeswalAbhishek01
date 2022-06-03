@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeswalAbhishek01
+- 👋 Hi, I’m Abhishek Deswal
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Nothing Right Now 
